@@ -9,6 +9,7 @@
 ##Backend:
 - .NET Core Web API   
 - SQL Server
+- JWT Based Auth
 
   
 ## Features
