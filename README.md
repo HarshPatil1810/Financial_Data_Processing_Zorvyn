@@ -32,6 +32,8 @@
 - JWT-based authentication
 - Role-based navigation
 
+
+
   ##Folder Structure
   Financial_Data_Processing_Zorvyn/
 ├── Backend/                 # .NET Core Web API
@@ -44,6 +46,8 @@
 │   ├── public/
 │   └── package.json
 └── README.md
+
+
 
 
 
