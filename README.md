@@ -68,6 +68,8 @@
 --Viewer and Analyst login only can view dashboard and transaction data(can't edit)
 <img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/f4918525-5092-4cd8-b40e-a09915697e94" />
 only Dashboard and View Transaction Menu can access
+<img width="1903" height="896" alt="image" src="https://github.com/user-attachments/assets/8d5cbb24-a964-475f-b4cf-22ee18f3407d" />
+Cant't edit transaction data
 
 
 
